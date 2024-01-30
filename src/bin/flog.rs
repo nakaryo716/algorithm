@@ -1,5 +1,3 @@
-mod test;
-
 use proconio::input;
 
 fn main() {

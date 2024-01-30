@@ -1,6 +1,5 @@
 use proconio::input;
 
-mod test;
 
 fn main() {
     let mut cost = Vec::new();
