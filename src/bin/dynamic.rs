@@ -11,6 +11,7 @@ fn main() {
 
 fn knapsack(capa: &usize, weight: &[usize], values: &[usize]) -> usize {
     let n = weight.len();
+    
 
     let mut dp = vec![vec![0; capa + 1]; n + 1]; 
 
